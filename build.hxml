@@ -1,0 +1,3 @@
+-cp src
+-main recs.Engine
+-lib res

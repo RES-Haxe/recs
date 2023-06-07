@@ -1,0 +1,20 @@
+{
+    "name": "recs",
+    "url": "",
+    "license": "MIT",
+    "tags": [
+        "ecs",
+        "res"
+    ],
+    "description": "RES Entity Component System",
+    "version": "0.1.0",
+    "classPath": "src/",
+    "releasenote": "Initial release",
+    "contributors": [
+        "miriti"
+    ],
+    "dependencies": {
+        "res": ""
+    },
+    "main": "tools.Main"
+}

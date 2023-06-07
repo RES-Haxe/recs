@@ -1,0 +1,3 @@
+package recs;
+
+class Component {}
